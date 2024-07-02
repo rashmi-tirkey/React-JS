@@ -1,0 +1,50 @@
+[
+    {
+        "price": 99999,
+        "name": "Apple iPhone 11 Pro Max",
+        "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    },
+    {
+        "price": 79999,
+        "name": "Samsung Galaxy Note 10+",
+        "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    },
+    {
+        "price": 69999,
+        "name": "OnePlus 7T Pro",
+        "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    },
+    {
+        "price": 49999,
+        "name": "Google Pixel 4",
+        "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    },
+    {
+        "price": 39999,
+        "name": "Xiaomi Mi 10",
+        "image":"https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    },
+    {
+        "price": 29999,
+        "name": "Realme X2 Pro",
+        "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    },
+    {
+        "price": 19999,
+        "name": "Oppo Reno 2",
+        "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    },
+    {
+        "price": 9999,
+        "name": "Vivo Z1 Pro",
+        "image": "https://m.media-amazon.com/images/I/71Ua9NgQgWL._AC_UY327_FMwebp_QL65_.jpg",
+        "quantity": 0
+    }
+]
